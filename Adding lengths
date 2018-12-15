@@ -1,0 +1,20 @@
+void main(){
+String firstname = "jayden";
+String lastname = "tyler";
+String newname = "trix becka";
+String students = "four";
+  
+int f = firstname.length;
+int l = lastname.length;
+int n = newname.length;
+int s = students.length;
+    
+print(f*l*n*s);
+print(f*l*n*s/4);
+
+print('print1+print2'); 
+  
+}
+
+
+
